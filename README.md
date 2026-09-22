@@ -1330,6 +1330,12 @@ A plugin can declare multiple kinds (e.g., media = `service` + `bar-widget`).
 
 Docs: [Manual — Shell Plugins](https://omarchy.org/manual/shell-plugins) · `docs/omarchy-shell.md` (quattro branch) · [Quickshell](https://quickshell.org)
 
+### Community plugins
+
+| Plugin | Kinds | What it does |
+|---|---|---|
+| [OmaCards](https://github.com/nocstah/omacards) 🔓 | `bar-widget`, `service` | Open, edit and flip saved window cards, set workspace destinations, and adjust motion and shortcuts · requires Hyprflip |
+
 **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -1887,4 +1893,3 @@ MIT © [Seyhun Akyürek](https://github.com/seyhunak)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 </p>
-
