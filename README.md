@@ -1326,7 +1326,7 @@ A plugin can declare multiple kinds (e.g., media = `service` + `bar-widget`).
 |---|---|---|
 | Plugin Marketplace (built-in + community) | 500+ | `Setup > Plugins > Add` (v4) · [Omarchy News — plugin competition](https://omarchy.org/news/) |
 | GitHub topic | — | Search `omarchy-plugin` / `quickshell` + `omarchy` |
-| Community examples | — | `HANCORE-linux/quickshell-dots`, `atif-1402/anomshell`, plus marketplace listings |
+| Community examples | — | `HANCORE-linux/quickshell-dots`, `atif-1402/anomshell`, [ibara](https://github.com/MayberryDT/omarchy-ibara) (`service`, `bar-widget`, `panel`; requires [ibara core](https://ibara.app/docs/install)), plus marketplace listings |
 
 Docs: [Manual — Shell Plugins](https://omarchy.org/manual/shell-plugins) · `docs/omarchy-shell.md` (quattro branch) · [Quickshell](https://quickshell.org)
 
